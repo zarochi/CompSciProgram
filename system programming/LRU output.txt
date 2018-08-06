@@ -1,0 +1,63 @@
+Enter the number of frames
+3
+Enter an integer value for the page (5-digit max)
+1
+Pages in memory
+|1|
+|-1|
+|-1|
+Enter an integer value for the page (5-digit max)
+3
+Pages in memory
+|1|
+|3|
+|-1|
+Enter an integer value for the page (5-digit max)
+5
+Pages in memory
+|1|
+|3|
+|5|
+Enter an integer value for the page (5-digit max)
+1
+Pages in memory
+|1|
+|3|
+|5|
+Enter an integer value for the page (5-digit max)
+5
+Pages in memory
+|1|
+|3|
+|5|
+Enter an integer value for the page (5-digit max)
+6
+Pages in memory
+|1|
+|6|
+|5|
+Enter an integer value for the page (5-digit max)
+4
+Pages in memory
+|4|
+|6|
+|5|
+Enter an integer value for the page (5-digit max)
+8
+Pages in memory
+|4|
+|6|
+|8|
+Enter an integer value for the page (5-digit max)
+2
+Pages in memory
+|4|
+|2|
+|8|
+Enter an integer value for the page (5-digit max)
+1
+Pages in memory
+|1|
+|2|
+|8|
+Page Faults: 8
